@@ -62,7 +62,7 @@ namespace Wawa_TouchScreen
 
         private void bb_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("This menu item is unavailable");
+            MessageBox.Show("This menu item is unavailablec c");
         }
     }
 }
