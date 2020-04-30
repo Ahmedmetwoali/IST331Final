@@ -1,0 +1,49 @@
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\bin\Debug\Wawa_TouchScreen.exe.config
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\bin\Debug\Wawa_TouchScreen.exe
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\bin\Debug\Wawa_TouchScreen.pdb
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.csprojAssemblyReference.cache
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\MainWindow.g.cs
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowBreakfast.g.cs
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowHoagies.g.cs
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowLunchDinner.g.cs
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSaladsWraps.g.cs
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSoupsSidesBowls.g.cs
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\App.g.cs
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen_MarkupCompile.cache
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen_MarkupCompile.lref
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\MainWindow.baml
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowBreakfast.baml
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowHoagies.baml
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowLunchDinner.baml
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSaladsWraps.baml
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSoupsSidesBowls.baml
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.g.resources
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.Properties.Resources.resources
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.csproj.GenerateResource.cache
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.csproj.CoreCompileInputs.cache
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.exe
+\\udrive.ad.psu.edu\Users\j\j\jjb70\Desktop\IST331\VisualStudios\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.pdb
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\bin\Debug\Wawa_TouchScreen.exe.config
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\bin\Debug\Wawa_TouchScreen.exe
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\bin\Debug\Wawa_TouchScreen.pdb
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.csprojAssemblyReference.cache
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowBreakfast.g.cs
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowHoagies.g.cs
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowLunchDinner.g.cs
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSaladsWraps.g.cs
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSoupsSidesBowls.g.cs
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\App.g.cs
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen_MarkupCompile.cache
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen_MarkupCompile.lref
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowBreakfast.baml
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowHoagies.baml
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowLunchDinner.baml
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSaladsWraps.baml
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\WindowSoupsSidesBowls.baml
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.g.resources
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.csproj.GenerateResource.cache
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.exe
+C:\Users\Ahmed\Downloads\Wawa_TouchScreen (1)\Wawa_TouchScreen\WawaAppJessie\obj\Debug\Wawa_TouchScreen.pdb
