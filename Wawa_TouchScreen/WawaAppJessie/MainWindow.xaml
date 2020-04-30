@@ -53,8 +53,6 @@
         </Button>
         <Label x:Name="labelCancel" Content="Cancel" HorizontalAlignment="Left" Margin="533,376,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="Maroon" RenderTransformOrigin="2.461,0.167" Grid.Column="1"/>
         <Label Content="Lab 3:&#xD;&#xA;Jessie Bezak&#xD;&#xA;Ervin Merone&#xD;&#xA;Joshua Simon" Grid.Column="1" HorizontalAlignment="Left" Margin="407,318,0,0" VerticalAlignment="Top" Height="96" Width="113" FontWeight="Bold" FontSize="16"/>
-        <Button x:Name="bb" Grid.Column="1" HorizontalAlignment="Left" Margin="54.2,318,0,0" VerticalAlignment="Top" Width="85" Height="79" Click="bb_Click"/>
-        <Image Source="Dog images.jpg" Stretch="Fill" RenderTransformOrigin="0.983,-0.394" Grid.Column="1" Margin="54.2,318,489.2,25.8"/>
 
     </Grid>
 </Window>
